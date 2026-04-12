@@ -1,0 +1,9 @@
+{
+	"name": "kk-factoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "415fc254-7b1f-435b-8294-6cb5981e3cd5",
+		"tenantId": "8c6eb6b0-3d99-447b-ba22-3cdc6c69d111"
+	}
+}
